@@ -11,3 +11,15 @@ Chicken artist
 # Malus
 
 Extreme PhD stress
+
+# Held item
+
+[[Shark tooth]]
+
+# Location
+
+[[Gel room]]
+
+# Tags
+
+#character 

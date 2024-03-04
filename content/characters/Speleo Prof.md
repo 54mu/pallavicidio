@@ -10,3 +10,15 @@ Cave Expert
 # Malus
 
 No-vax
+
+# Held item
+
+[[Pizza cutter]]
+
+# Location
+
+[[Emiciclo]]
+
+# Tags
+
+#character 

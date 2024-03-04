@@ -10,3 +10,15 @@ Pastry Chef
 # Malus
 
 Burocracy
+
+# Held item
+
+[[Paper knife]]
+
+# Location
+
+[[Botanic garden]]
+
+# Tags
+
+#character

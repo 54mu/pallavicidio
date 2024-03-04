@@ -14,7 +14,7 @@ This invitation letter was received by [[Former Detective]] on an unknown date
 >
 > Join us to celebrate the new scientific success of the Pallavicini-Giulianini Genetics laboratory.
 >
-> The [[Director of the Department]] will make an important announcement
+> The [[Herr Director]] will make an important announcement
 
 
 ## More
@@ -22,3 +22,6 @@ This invitation letter was received by [[Former Detective]] on an unknown date
 references to [[Adventure Prof]] and [[Il Primario]]'s genetics laboratory. This is discordant from the group description provided by the [[starting info]].
 
 
+# Tags
+
+#item
