@@ -1,6 +1,12 @@
 ---
 title: Pallavicidio
 ---
+# Events
+
+| date of discovery | event                        |
+| ----------------- | ---------------------------- |
+| 01/03/2024        | [[starting info]]            |
+| 04/03/2024        | [[The castelletto incident]] |
 # Characters
 
 ## Playing Characters
