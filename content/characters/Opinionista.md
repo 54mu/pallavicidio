@@ -8,4 +8,4 @@ The [[Opinionista]] can give her suggestions, but only when requested by players
 
 # Tags
 
-#cahracter 
+#character 

@@ -13,4 +13,4 @@ Eggplants
 
 # Tags
 
-#cahracter
+#character
