@@ -1,6 +1,8 @@
 ---
 evolves from: Il Solly
 player: none
+tags:
+  - character
 ---
 # Ability
 

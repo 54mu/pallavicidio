@@ -11,6 +11,13 @@ Cat dad
 
 Eggplants
 
+# Held item
+
+[[Wired mouse]]
+
+# Location
+
+[[Bioinformatics lab]]
 # Tags
 
 #character

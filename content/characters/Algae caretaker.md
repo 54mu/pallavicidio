@@ -18,6 +18,5 @@ Extreme PhD stress
 
 [[Castelletto]]
 [[M Building]]
-
 # Tags
 #character

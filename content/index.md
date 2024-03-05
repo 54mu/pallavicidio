@@ -1,5 +1,7 @@
 ---
 title: Pallavicidio
+tags:
+  - "#mainpage"
 ---
 # Events
 
@@ -7,6 +9,7 @@ title: Pallavicidio
 | ----------------- | ---------------------------- |
 | 01/03/2024        | [[starting info]]            |
 | 04/03/2024        | [[The castelletto incident]] |
+| 05/03/2024        | [[Shredded paper]]           |
 # Characters
 
 ## Playing Characters
@@ -30,3 +33,6 @@ title: Pallavicidio
 [[Japan ecologist]]
 [[PhD-course coordinator]]
 [[Slovenian hermit]]
+[[Pasquale Passaguai]]
+[[Polarbea]]
+[[Volleyball coach]]

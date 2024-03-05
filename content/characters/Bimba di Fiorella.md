@@ -11,5 +11,13 @@ Gossip expert
 
 Students of night school
 
+# Held item
+
+[[Poisonous Pocket coffee]]
+
+# Location
+
+[[Relax room]]
+
 # Tags
 #character 

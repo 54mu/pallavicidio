@@ -10,6 +10,13 @@ Lab Skills
 
 Stinkbugs
 
+# Held item
+
+[[Methanol]]
+
+# Location
+
+[[Lab 112]]
 # Clues
 
 Was the only person to receive the [[special invitation letter]]. 

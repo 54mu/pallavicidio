@@ -10,6 +10,13 @@ Meetings Juggler
 
 Polish Cookies
 
+# Held items
+
+[[Pipette]]
+
+# Location
+
+[[Palla's office]]
 # Tags
 
 #character 
