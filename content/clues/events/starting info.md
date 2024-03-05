@@ -1,3 +1,9 @@
+---
+tags:
+  - event
+---
+
+
 # Description
 
 Everyone received this document. 

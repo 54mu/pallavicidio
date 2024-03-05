@@ -17,6 +17,10 @@ Polish Cookies
 # Location
 
 [[Palla's office]]
+
+# Clues
+
+Found dead by [[Shell Expert]] with a sharp wound.
 # Tags
 
 #character 

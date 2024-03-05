@@ -1,3 +1,7 @@
-# Tags
+---
+tags:
+  - item
+---
+## Damage types
 
-#item 
+[[laceration]], [[suffocation]]

@@ -1,3 +1,7 @@
+---
+tags:
+  - event
+---
 # Description
 
 Pieces of a document were found by [[Speleo Prof]], who also reported clues about [[Volleyball coach]]. The document seems about an opportunity for a professor position and is signed by [[Herr Director]]. The other team has the missing part.
